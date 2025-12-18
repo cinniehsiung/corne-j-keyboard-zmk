@@ -13,7 +13,7 @@ layers:
   - I
   - O
   - P
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - {t: '$$mdi:backspace$$', h: \}
   - $$mdi:keyboard-esc$$
   - A
   - '&hml LALT S'
@@ -45,7 +45,7 @@ layers:
   - $$mdi:apple-keyboard-caps$$
   - LGUI
   - $$mdi:keyboard-space$$
-  - {t: '$$mdi:keyboard-space$$', h: NAV}
+  - {t: '$$mdi:backspace$$', h: NAV}
   - {t: '$$mdi:keyboard-tab$$', h: MEDIA}
   - {t: '$$mdi:keyboard-return$$', h: SYMBOL}
   - RGUI
