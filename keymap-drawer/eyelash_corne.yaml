@@ -17,7 +17,7 @@ layers:
   - $$mdi:keyboard-esc$$
   - A
   - '&hml LALT S'
-  - '&hml LSHFT D'
+  - '&hmsl LSHFT D'
   - '&hml LGUI F'
   - G
   - $$mdi:arrow-left-bold$$
@@ -25,7 +25,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - H
   - '&hmr RGUI J'
-  - '&hmr RSHFT K'
+  - '&hmsr RSHFT K'
   - '&hmr RALT L'
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
