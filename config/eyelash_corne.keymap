@@ -4,7 +4,7 @@
 #include "zmk-helpers/helper.h"
 
 // Source desired key-position labels
-#include "zmk-helpers/key-labels/42.h"
+#include "zmk-helpers/key-labels/eyelash42.h"
 
 #include <input/processors.dtsi>
 #include <zephyr/dt-bindings/input/input-event-codes.h>
