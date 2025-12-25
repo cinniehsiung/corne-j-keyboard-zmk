@@ -79,6 +79,8 @@ ZMK_HOLD_TAP(hmsr,
     trigger-period-ms = <16>;
 };
 
+/* Start defining behaviors */
+/ {
 
 /* Keymap */
 keymap {
@@ -148,4 +150,5 @@ bindings = <
 >;
 sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
 };
-}
+};
+};
