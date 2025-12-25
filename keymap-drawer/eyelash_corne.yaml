@@ -30,7 +30,7 @@ layers:
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
   - {t: '`', s: '~'}
-  - '&hml LEFT_CONTROL Z'
+  - '&hml LCTRL Z'
   - X
   - C
   - V
@@ -41,7 +41,7 @@ layers:
   - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
-  - '&hmr RIGHT_CONTROL FSLH'
+  - '&hmr RCTRL FSLH'
   - $$mdi:apple-keyboard-caps$$
   - LGUI
   - $$mdi:keyboard-space$$
@@ -196,6 +196,3 @@ layers:
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-combos:
-- p: [1, 15, 29]
-  k: '&soft_off'
