@@ -93,7 +93,7 @@ layers:
   - {t: '-', s: _}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - _
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
@@ -101,7 +101,7 @@ layers:
   NAV:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: Gui+Sft+4, s: Gui+Sft+$}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - Ctl+$$mdi:arrow-up-bold$$
   - {t: Gui+-, s: Gui+_}
   - {t: Gui+=, s: Gui++}
   - {t: '$$mdi:transfer$$', type: trans}
